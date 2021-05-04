@@ -1,41 +1,41 @@
-    <h1>
+<h1>
         Brasa Hacks 21
-    </h1>
+</h1>
 
-    <h2>
+<h2>
         Wildlife
-    </h2>
+</h2>
 
-    <p>
+<p>
         <a href="https://editor.p5js.org/fabricio.r.passos/sketches/PDCvAm03P" target="_blank"><b>Link do jogo no P5</b></a>
-    </p>
+</p>
     
-    <div>
-        <p>
-            <strong>
+<div>
+<p>
+  <strong>
                 Desafio:
-            </strong>
-        </p>
+    </strong>
+    </p>
 
-        <p>
+   <p>
             Recrie um jogo que marcou sua geração, mas adicione seu toque pessoal!
         </p>
 
-        <p>
+   <p>
             <strong>
                 Solução:
             </strong>
         </p>
         
-        <p>
+   <p>
            Transformação do jogo Space Invaders para o jogo Independende Space. 
         </p>
 
-        <p>
+   <p>
             O jogo tem uma jogabilidade simples com efeitos legais e poderes diferentes como escudo, tiros múltiplos e também de vida extras para ajudar no combate.
         </p>
 
-        <p>
+   <p>
             Além da possibilidade de interação multiplayer.
         </p>
     </div>
